@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fraction", "Fraction\Fraction.vcxproj", "{7D098A68-D74A-4994-81D2-21FE2EA2BFC8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Array", "Array\Array.vcxproj", "{0591BD76-B9F2-416B-991F-D3D6CE3E67ED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Date", "Date\Date.vcxproj", "{247789EC-C480-4856-9CA5-0B6116AE7FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D098A68-D74A-4994-81D2-21FE2EA2BFC8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7D098A68-D74A-4994-81D2-21FE2EA2BFC8}.Debug|Win32.Build.0 = Debug|Win32
+		{7D098A68-D74A-4994-81D2-21FE2EA2BFC8}.Release|Win32.ActiveCfg = Release|Win32
+		{7D098A68-D74A-4994-81D2-21FE2EA2BFC8}.Release|Win32.Build.0 = Release|Win32
+		{0591BD76-B9F2-416B-991F-D3D6CE3E67ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0591BD76-B9F2-416B-991F-D3D6CE3E67ED}.Debug|Win32.Build.0 = Debug|Win32
+		{0591BD76-B9F2-416B-991F-D3D6CE3E67ED}.Release|Win32.ActiveCfg = Release|Win32
+		{0591BD76-B9F2-416B-991F-D3D6CE3E67ED}.Release|Win32.Build.0 = Release|Win32
+		{247789EC-C480-4856-9CA5-0B6116AE7FBA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{247789EC-C480-4856-9CA5-0B6116AE7FBA}.Debug|Win32.Build.0 = Debug|Win32
+		{247789EC-C480-4856-9CA5-0B6116AE7FBA}.Release|Win32.ActiveCfg = Release|Win32
+		{247789EC-C480-4856-9CA5-0B6116AE7FBA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
